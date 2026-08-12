@@ -152,10 +152,13 @@ figcaption
     color: $white !important
 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
-    background-color: $color-acento-botones;
+    background-color: #262E38;
     border: 0;
+    background-image: url(../assets/curso/temas/bg/3.svg)
+
+
 .slyder-a__bullets__item 
-    background-color: #9DB89A
+    background-color: #D9E6F7
     border: 0;
 
 .slyder-a__bullets__item--active
@@ -177,6 +180,24 @@ figcaption
     color: white;
 
 
+.tabs-c.color-primario .tabs-c__tab
+    background-color: #EBEEEE
+    border-bottom-color: #E8E8E8
+
+.tabs-c.color-primario .tabs-c__tab--active
+    background-color: #fff
+    border-bottom-color: $color-acento-botones !important
+    color: $color-sistema-texto !important
+
+.tabs-c.color-primario .tabs-c__tab--active:before
+    border-top-color: $color-acento-botones !important
+    
+.tabs-c.color-primario .tabs-c__tab--active span
+    font-weight: bold !important
+
+.tarjeta-audio.color-secundario .tarjeta-audio__texto 
+      color: $color-sistema-texto !important
+      font-style: normal !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -190,6 +211,8 @@ figcaption
 .bg-fondo
   &-1
     background-image: url(../assets/curso/temas/bg/2.png)
+  &-2
+    background-image: url(../assets/curso/temas/bg/4.png)
 .bg
   &-primario
     background-color: $color-primario
@@ -230,6 +253,11 @@ figcaption
     padding-right: 1rem !important;
     padding-left: 1rem !important;
 
+
+.mcus
+  &-1
+    margin-top: 2.3em
+
 /**************************************************************/
 /*Media Queries*/  
 /**************************************************************/
@@ -238,7 +266,9 @@ figcaption
 @media screen and (max-width: $bp-min-xxl)
   .mb-cus
     margin-bottom: 2em  !important 
-
+  .mcus
+    &-1
+      margin-top: 0em
 //// TABLET 992--------------------------------------
 @media screen and (max-width: $bp-max-md)
   .mb-cus
@@ -293,5 +323,8 @@ figcaption
     &-4
       padding-right: 0.5rem !important;
       padding-left: 0.5rem !important;
+  
+
+
   
  
