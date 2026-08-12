@@ -151,9 +151,30 @@ figcaption
 .tabs-a.color-acento-botones .tabs-a__tab__selected 
     color: $white !important
 
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: $color-acento-botones;
+    border: 0;
+.slyder-a__bullets__item 
+    background-color: #9DB89A
+    border: 0;
 
+.slyder-a__bullets__item--active
+    background-color: $color-acento-botones;
+    border: 0;
 
-
+.acordion__accion__btn--b
+    background-color: $color-acento-botones !important;
+    border: 0
+.tarjeta.bg-green
+  background-color: #FEDDBB
+.tarjeta.bg-green.acordion__activo
+  background-color: #FFF6EE
+.tarjeta.bg-green.acordion__activo .acordion__titulo h3
+  color: $color-sistema-texto !important
+.acordion__accion__btn--a
+    background-color: $color-acento-botones
+.acordion__accion__btn--a i, .acordion__accion__btn--b i 
+    color: white;
 
 
 /**************************************************************/
@@ -197,6 +218,17 @@ figcaption
   &-1
     height: 280px
 
+.pcus
+  &-1
+    padding-bottom: 3rem !important;
+  &-2
+    padding-right: 3rem !important;
+    padding-left: 3rem !important;
+  &-3
+    padding-top: 3rem !important;
+  &-4
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
 
 /**************************************************************/
 /*Media Queries*/  
@@ -218,6 +250,10 @@ figcaption
   .bloque-texto-g
     padding-top: 1.5rem !important;
     padding-bottom: 1.5rem !important;
+  .slyder-a__btn--sigt
+    right: 0% !important;
+  .slyder-a__btn--atrs
+    left: 0% !important;
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
@@ -239,8 +275,23 @@ figcaption
   .slyder-a__btn--sigt, .slyder-a__btn--atrs
     width: 30px;
     height: 30px;
+  .slyder-a__btn--sigt
+    right: -1% !important;
+  .slyder-a__btn--atrs
+    left: -1% !important;
   .hcus
     &-1
       height: auto
+  .pcus
+    &-1
+      padding-bottom: 1rem !important;
+    &-2
+      padding-right: 1.3rem !important;
+      padding-left: 1.3rem !important;
+    &-3
+      padding-top: 1rem !important;
+    &-4
+      padding-right: 0.5rem !important;
+      padding-left: 0.5rem !important;
   
  
