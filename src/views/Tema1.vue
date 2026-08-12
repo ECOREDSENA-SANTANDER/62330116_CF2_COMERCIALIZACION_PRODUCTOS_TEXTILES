@@ -14,8 +14,8 @@
           .row.justify-content-center.mb-3
             .col-sm-12.col-lg-2.d-none.d-lg-block
               img(src='@/assets/curso/temas/t1/2.svg')
-            .col-sm-12.col-lg-10 La comercialización de productos textiles requiere comprender la relación entre mercado, cliente, producto, comunicación y valor. En este marco, el mercadeo y el marketing aportan herramientas para analizar necesidades, organizar la oferta, reconocer oportunidades comerciales y proyectar productos textiles hacia segmentos específicos.
-          p.mb-0 El mercadeo permite estudiar las condiciones del mercado: quién compra, qué necesita, qué productos existen, cómo se comporta la competencia, cuáles son los canales disponibles y qué factores influyen en la decisión de compra. El marketing, por su parte, articula acciones orientadas a posicionar productos, comunicar beneficios, fortalecer la marca y generar intercambios comerciales sostenibles.
+            .col-sm-12.col-lg-10 La comercialización de productos textiles requiere comprender la relación entre mercado, cliente, producto, comunicación y valor. En este marco, el mercadeo y el #[i marketing] aportan herramientas para analizar necesidades, organizar la oferta, reconocer oportunidades comerciales y proyectar productos textiles hacia segmentos específicos.
+          p.mb-0 El mercadeo permite estudiar las condiciones del mercado: quién compra, qué necesita, qué productos existen, cómo se comporta la competencia, cuáles son los canales disponibles y qué factores influyen en la decisión de compra. El #[i marketing], por su parte, articula acciones orientadas a posicionar productos, comunicar beneficios, fortalecer la marca y generar intercambios comerciales sostenibles.
 
       p.mb-5(data-aos='fade-right') En el sector textil, estos fundamentos tienen una aplicación directa porque las telas, hilos, insumos, prendas y servicios asociados no se comercializan únicamente por precio. También intervienen aspectos como composición, calidad, tendencia, acabados, disponibilidad, presentación, portafolio, canal de venta, servicio y capacidad para resolver una necesidad del cliente.
 
@@ -24,8 +24,8 @@
           :style="{'background-image': `url(${require_src('@/assets/curso/temas/t1/3.png')})`}"
         )
         .bloque-texto-g__texto.p-4.d-flex.flex-column
-          h4 Función del mercadeo y el marketing en textiles
-          p.mb-3 El mercadeo permite reconocer el comportamiento del mercado; el marketing organiza la forma en que una empresa presenta, comunica y posiciona su oferta. En productos textiles, ambos enfoques facilitan la selección de productos, la construcción de argumentos comerciales y la definición de estrategias acordes con las necesidades del cliente.
+          h4 Función del mercadeo y el #[i marketing] en textiles
+          p.mb-3 El mercadeo permite reconocer el comportamiento del mercado; el #[i marketing] organiza la forma en que una empresa presenta, comunica y posiciona su oferta. En productos textiles, ambos enfoques facilitan la selección de productos, la construcción de argumentos comerciales y la definición de estrategias acordes con las necesidades del cliente.
           p.mb-0 El dominio de estos fundamentos permite interpretar la comercialización textil como un proceso planificado. La oferta adquiere mayor coherencia cuando se conocen las necesidades del mercado, las características del producto y los argumentos que sustentan su valor frente al cliente.
 
       
@@ -34,14 +34,14 @@
       
       Separador
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-        h2 1.1 Mercadeo, <i>marketing</i> y comercialización textil
+        h2 1.1 Mercadeo, #[i marketing] y comercialización textil
       
       
-      p.mb-5(data-aos='fade-right') Para ordenar una propuesta comercial resulta necesario reconocer los conceptos que estructuran el mercadeo y el marketing. Estos conceptos aportan una lectura particular sobre la manera en que una empresa identifica oportunidades y presenta sus productos textiles de acuerdo con el mercado, el cliente y la necesidad que busca atender.
+      p.mb-5(data-aos='fade-right') Para ordenar una propuesta comercial resulta necesario reconocer los conceptos que estructuran el mercadeo y el #[i marketing]. Estos conceptos aportan una lectura particular sobre la manera en que una empresa identifica oportunidades y presenta sus productos textiles de acuerdo con el mercado, el cliente y la necesidad que busca atender.
       
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2  Conceptos básicos de mercadeo y marketing
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2  Conceptos básicos de mercadeo y #[i marketing]
       
       TabsB.color-acento-botones.tab-hover.mb-4(data-aos='fade-right')
         .p-5.bg-color-1(titulo="Mercado y cliente" :icono="require_src('@/assets/curso/temas/t1/6.svg')")
@@ -82,7 +82,7 @@
       
       .cajon.color-primario.p-4.mb-5(data-aos='fade-right')
         h4 Nota técnica
-        p.mb-0 Los conceptos de mercadeo y marketing se relacionan entre sí. La identificación de una necesidad orienta la selección del producto, la segmentación permite definir el público objetivo y el posicionamiento ayuda a construir una imagen clara frente al cliente.
+        p.mb-0 Los conceptos de mercadeo y #[i marketing] se relacionan entre sí. La identificación de una necesidad orienta la selección del producto, la segmentación permite definir el público objetivo y el posicionamiento ayuda a construir una imagen clara frente al cliente.
       
       .row.justify-content-center.mb-5.align-items-end(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block

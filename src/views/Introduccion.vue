@@ -10,7 +10,7 @@
       h1 Introducción
     
     img.mb-5(src='@/assets/curso/temas/intro/1.png')
-    p.mb-5 La comercialización y venta de productos textiles requiere comprender cómo se relacionan el mercado, el cliente, el producto, la marca, la comunicación y el servicio. En este proceso, el mercadeo y el marketing permiten identificar necesidades, reconocer oportunidades comerciales y presentar productos textiles de manera coherente con sus características técnicas, funcionales y comerciales.
+    p.mb-5 La comercialización y venta de productos textiles requiere comprender cómo se relacionan el mercado, el cliente, el producto, la marca, la comunicación y el servicio. En este proceso, el mercadeo y el <i>marketing</i> permiten identificar necesidades, reconocer oportunidades comerciales y presentar productos textiles de manera coherente con sus características técnicas, funcionales y comerciales.
 
     .row.justify-content-center.mb-5.align-items-end
       .col-sm-12.col-lg-5.d-none.d-lg-block
