@@ -1,1 +1,1 @@
-module.exports = 'Comercialización y ventas de productos textiles.'
+module.exports = 'Comercialización y ventas de productos textiles'
