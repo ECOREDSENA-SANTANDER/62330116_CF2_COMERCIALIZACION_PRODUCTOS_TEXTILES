@@ -274,7 +274,7 @@
 
             .row(numero="4" titulo="Manejo de objeciones")
               .col-sm-12.col-lg-12
-                p.mb-0 Responde dudas sobre precio, calidad, tiempos, usos o condiciones, y aclara diferencias entre materiales, acabados, rendimientos o referencias.
+                p.mb-0 Responde dudas sobre precio, calidad, tiempos, usos o condiciones, y aclara diferencias entre materiales, acabados, rendimientos o alternativas disponibles.
 
             .row(numero="5" titulo="Cierre de venta o avances comerciales")
               .col-sm-12.col-lg-12

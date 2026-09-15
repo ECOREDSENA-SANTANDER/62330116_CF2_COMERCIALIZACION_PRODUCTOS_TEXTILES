@@ -106,7 +106,7 @@
             h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Momentos del protocolo de presentación
           .row.justify-content-center.mb-0.align-items-center
             .col-sm-12.col-lg-10  
-              PasosA.color-acento-contenido(tipo="n")
+              PasosA.color-acento-contenido(tipo="l")
                 .row.align-items-center
                   .col-sm-12.col-lg-10
                     h4 Preparación

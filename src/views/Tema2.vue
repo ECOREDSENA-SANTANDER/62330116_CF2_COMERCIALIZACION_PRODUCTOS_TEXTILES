@@ -151,7 +151,7 @@
           .row.justify-content-center.pcus-2.pcus-1
             .col-sm-12.col-lg-4
               h4 Comunicación
-              p.mb-0 Permite revisar la forma en que se presentan atributos y beneficios mediante catálogos, fotografías, fichas técnicas, descripciones, mensajes comerciales y otros recursos.
+              p.mb-0 Permite revisar la forma en que se presentan atributos y beneficios mediante catálogos, fotografías, fichas técnicas, descripciones y mensajes comerciales.
             .col-sm-12.col-lg-8.d-none.d-lg-block
               img(src='@/assets/curso/temas/t2/17.png')
       

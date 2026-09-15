@@ -151,7 +151,7 @@
 
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-        h2 1.2 Estrategias de comercialización, portafolio y marca
+        h2 1.2 Estrategias de comercialización, portafolio, marca y posicionamiento
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/24.png')
@@ -169,7 +169,7 @@
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Ruta para definir una estrategia de comercialización textil  
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
           .col-sm-12.col-lg-10  
-            PasosA.color-acento-contenido(tipo="n")
+            PasosA.color-acento-contenido(tipo="l")
               .row.align-items-center
                 .col-sm-12.col-lg-10
                   h4 Diagnóstico del mercado
@@ -211,6 +211,14 @@
                 .col-sm-12.col-lg-10
                   h4 Comunicación comercial
                   p.mb-0 Construye mensajes claros sobre atributos y beneficios, mediante composición, cuidados, aplicaciones, ventajas y recomendaciones de uso.
+              .row.align-items-center
+                .col-sm-12.col-lg-10
+                  h4 Seguimiento
+                  p.mb-0 Revisa resultados y ajusta acciones comerciales a partir de consultas, productos más solicitados, rotación, aceptación y oportunidades de mejora.
+                .col-sm-12.col-lg-2.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/t1/49.svg')
+
+
       .cajon.color-primario.p-4.mb-5(data-aos='fade-right')
         h4 Nota técnica
         p.mb-0 Una estrategia de comercialización no equivale a una técnica de cierre de venta. Su función es organizar las condiciones para que el producto llegue al mercado de manera coherente, diferenciada y alineada con las necesidades del cliente.
@@ -307,7 +315,7 @@
                       img(src='@/assets/curso/temas/t1/40.svg')
                   .bg-color-acento-botones.mb-4.py-1
                     h4.mb-0.text-center.fw-bold Acabado
-                  p.mb-0.text-center Diferencia productos por procesos o características superficiales, como suavizado, estampado, repelente al agua, antiarrugas o texturas especiales.
+                  p.mb-0.text-center Diferencia productos por procesos o características superficiales, como suavizado, estampado, repelente al agua, antiarrugas o antiencogimiento.
 
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-4
@@ -341,7 +349,7 @@
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-primario.p-5.hcus-1
             .tarjeta-numerada__numero
-              .h2 1
+              .h2 A
             p.text-center
               b Nombre o referencia del producto
             p.text-center Permite identificar cada tela, insumo, prenda o servicio.
@@ -349,7 +357,7 @@
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-secundario.p-5.hcus-1
             .tarjeta-numerada__numero
-              .h2 2
+              .h2 B
             p.text-center
               b Descripción técnica
             p.text-center Presenta composición, estructura, gramaje, ancho, acabado o características principales.
@@ -357,7 +365,7 @@
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-contenido.p-5.hcus-1
             .tarjeta-numerada__numero
-              .h2 3
+              .h2 C
             p.text-center
               b Uso recomendado
             p.text-center Relaciona el producto con aplicaciones posibles en moda, dotación, hogar, decoración o confección.
@@ -365,7 +373,7 @@
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-botones.p-5.hcus-1
             .tarjeta-numerada__numero
-              .h2 4
+              .h2 D
             p.text-center
               b Muestra física o apoyo gráfico
             p.text-center Facilita reconocer textura, color, caída, brillo, apariencia o acabado.
@@ -373,7 +381,7 @@
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-primario.p-5.hcus-1
             .tarjeta-numerada__numero
-              .h2 5
+              .h2 E
             p.text-center
               b Precio o rango comercial
             p.text-center Orienta la decisión de compra según presupuesto, volumen y nivel de calidad.
@@ -381,7 +389,7 @@
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-secundario.p-5.hcus-1
             .tarjeta-numerada__numero
-              .h2 6
+              .h2 F
             p.text-center
               b Condiciones de disponibilidad
             p.text-center Informa colores, cantidades, tiempos de entrega o referencias activas.
@@ -389,7 +397,7 @@
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-contenido.p-5.hcus-1
             .tarjeta-numerada__numero
-              .h2 7
+              .h2 G
             p.text-center
               b Beneficios principales
             p.text-center Resume el valor agregado del producto frente a la necesidad del cliente.
@@ -397,7 +405,7 @@
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-botones.p-5.hcus-1
             .tarjeta-numerada__numero
-              .h2 8
+              .h2 H
             p.text-center
               b Servicio complementario
             p.text-center Incluye asesoría, entrega, fichas técnicas, atención posventa o soporte comercial.
@@ -462,27 +470,27 @@
           img(src='@/assets/curso/temas/t1/48.png')
         .col-sm-12.col-lg-6
            LineaTiempoD.color-acento-botones
-            .row(numero="1" titulo="Por calidad")
+            .row(numero="A" titulo="Por calidad")
               .col-sm-12.col-lg-12
                 p.mb-0 Resalta desempeño, durabilidad y cumplimiento técnico. Se aplica en telas para uniformes, dotación, prendas de alto uso o productos especializados.
 
-            .row(numero="2" titulo="Por precio")
+            .row(numero="B" titulo="Por precio")
               .col-sm-12.col-lg-12
                 p.mb-0 Destaca accesibilidad y competitividad económica. Se aplica en referencias de alta rotación para producción en volumen.
 
-            .row(numero="3" titulo="Por variedad")
+            .row(numero="C" titulo="Por variedad")
               .col-sm-12.col-lg-12
                 p.mb-0 Enfatiza amplitud de referencias, colores, acabados o usos. Se aplica en portafolios textiles para moda, hogar, decoración o confección general.
 
-            .row(numero="4" titulo="Por especialización")
+            .row(numero="D" titulo="Por especialización")
               .col-sm-12.col-lg-12
                 p.mb-0 Atiende necesidades específicas de un segmento. Se aplica en textiles deportivos, institucionales, técnicos o funcionales.
 
-            .row(numero="5" titulo="Por tendencia")
+            .row(numero="E" titulo="Por tendencia")
               .col-sm-12.col-lg-12
                 p.mb-0 Se apoya en actualidad estética, color, textura o temporada. Se aplica en bases textiles para colecciones de moda o lanzamientos comerciales.
 
-            .row(numero="6" titulo="Por servicio")
+            .row(numero="F" titulo="Por servicio")
               .col-sm-12.col-lg-12
                 p.mb-0 Diferencia la oferta mediante atención, asesoría y cumplimiento. Se aplica en acompañamiento en selección de materiales, muestras, fichas técnicas y seguimiento.
 
