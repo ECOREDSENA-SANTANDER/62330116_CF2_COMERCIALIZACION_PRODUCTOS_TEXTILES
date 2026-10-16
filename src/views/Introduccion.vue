@@ -25,6 +25,11 @@
       .col-sm-12.col-lg-11
           p.mb-0 Finalmente, el componente permite relacionar la planeación comercial con el servicio al cliente antes, durante y después de la venta. Esta integración favorece una gestión más organizada, pertinente y confiable, en la que los productos textiles se presentan con argumentos claros y se comercializan de acuerdo con las necesidades del mercado.
 
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/f8vgCDaQOT8?si=d00k_dPo6Lqf1OAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video. Comercialización y ventas de productos textiles
+
 
 </template>
 
