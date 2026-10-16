@@ -248,7 +248,7 @@
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-secundario.mb-0.p-4(
               texto="Pódcast: vender textiles con argumentos: del dato técnico al beneficio del cliente"
-              :audio="require_src('@/assets/curso/temas/t3/podcast.mp3')"
+              :audio="require_src('@/assets/curso/temas/audio/podcast.mp3')"
           )
 
       .titulo-tercer-nivel.mb-5(data-aos='fade-right')
