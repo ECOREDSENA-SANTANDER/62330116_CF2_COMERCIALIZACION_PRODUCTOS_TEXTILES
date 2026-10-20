@@ -93,8 +93,9 @@
       
       p.mb-5(data-aos='fade-right') Los #[b canales de comercialización] pueden variar según el tipo de producto, el volumen de venta y el perfil del comprador. Una empresa textil puede trabajar mediante punto físico, venta directa, distribuidores, ferias, catálogos, páginas web, redes sociales, comercio electrónico o atención institucional. La elección del canal incide en la forma de presentar el producto, gestionar inventarios, atender consultas y cerrar negociaciones.
 
-      .titulo-tercer-nivel-2.mb-5(data-aos='fade-right')
-        h3.titulo-tercer-nivel-2__text.mb-0.px-0.py-2 ● Factores que orientan la comercialización textil
+      .titulo-tercer-nivel.mb-5
+        img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Factores que orientan la comercialización textil
 
       SlyderF.mb-5(columnas="col-md-6 col-xl-4" data-aos='fade-right')
         .tarjeta.bg-color-2.p-4.hcard-1
@@ -275,8 +276,9 @@
       .bg-color-3.p-4.mb-5(data-aos='fade-right')
         p.mb-0 La construcción del portafolio requiere clasificar los productos según criterios pertinentes para la comercialización. En productos textiles, esta clasificación puede realizarse por tipo de material, composición, uso final, línea de producto, nivel de precio, acabado, color, temporada, tipo de cliente o volumen de compra. También puede incluir servicios complementarios que fortalecen la experiencia comercial.
 
-      .titulo-tercer-nivel-2.mb-5(data-aos='fade-right')
-        h3.titulo-tercer-nivel-2__text.mb-0.px-0.py-2 ● Criterios para organizar el portafolio textil
+      .titulo-tercer-nivel.mb-5
+        img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Criterios para organizar el portafolio textil
 
       .bg-full-width.bg-fondo-1.mb-5(data-aos='fade-right')
         .p-full-width
@@ -340,8 +342,9 @@
       p.mb-5(data-aos='fade-right') El portafolio adquiere mayor utilidad cuando integra información suficiente para orientar la decisión de compra. En el caso de productos textiles, conviene que la presentación incluya datos técnicos y comerciales que respalden la oferta.
 
 
-      .titulo-tercer-nivel-2.mb-5(data-aos='fade-right')
-        h3.titulo-tercer-nivel-2__text.mb-0.px-0.py-2 ● Elementos que puede incluir un portafolio textil
+      .titulo-tercer-nivel.mb-5
+        img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Elementos que puede incluir un portafolio textil
 
 
       
@@ -428,8 +431,9 @@
 
       p.mb-5(data-aos='fade-right') Marca y posicionamiento no funcionan de manera aislada. La marca comunica quién ofrece el producto y qué valor representa; el posicionamiento refleja cómo esa oferta es interpretada por el mercado. Por ello, la coherencia entre lo que la empresa promete y lo que el cliente experimenta resulta fundamental para sostener una imagen comercial confiable.
 
-      .titulo-tercer-nivel-2.mb-5(data-aos='fade-right')
-        h3.titulo-tercer-nivel-2__text.mb-0.px-0.py-2 ● Elementos de la marca
+      .titulo-tercer-nivel.mb-5
+        img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Elementos de la marca
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block
@@ -462,8 +466,9 @@
           h4.mb-4 Posicionamiento en el mercado textil
           p.mb-0 El posicionamiento se construye a partir de percepciones repetidas. Si una empresa comunica calidad, el producto debe sostener esa promesa mediante composición, acabado, comportamiento y servicio. Si comunica precio competitivo, la oferta debe mantener equilibrio entre costo, disponibilidad y valor percibido.
 
-      .titulo-tercer-nivel-2.mb-5(data-aos='fade-right')
-        h3.titulo-tercer-nivel-2__text.mb-0.px-0.py-2 ● Tipos de posicionamiento
+      .titulo-tercer-nivel.mb-5
+        img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Tipos de posicionamiento
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-6.d-none.d-lg-block

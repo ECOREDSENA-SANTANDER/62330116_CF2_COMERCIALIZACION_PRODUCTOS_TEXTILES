@@ -230,7 +230,7 @@
             .col-sm-12.col-lg-7
               p.mb-0 Permiten responder consultas, comunicar novedades, publicar productos y dirigir clientes hacia canales de compra.
 
-        .py-3.py-md-4(titulo="Página web")
+        .py-3.py-md-4(titulo="Página web o formulario")
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-5.d-none.d-lg-block
               img(src='@/assets/curso/temas/t5/19.png')

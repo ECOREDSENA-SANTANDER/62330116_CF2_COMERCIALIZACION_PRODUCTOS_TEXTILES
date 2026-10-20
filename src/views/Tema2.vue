@@ -221,8 +221,9 @@
           .col-sm-12.col-lg-6
             img.d-none.d-lg-block(src='@/assets/curso/temas/t2/26.png')
 
-      .titulo-tercer-nivel-2.mb-5(data-aos='fade-right')
-        h3.titulo-tercer-nivel-2__text.mb-0.px-0.py-2 ● Uso crítico de las mejores prácticas
+      .titulo-tercer-nivel.mb-5
+        img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/1.svg')
+        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Uso crítico de las mejores prácticas
 
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-2.d-none.d-lg-block

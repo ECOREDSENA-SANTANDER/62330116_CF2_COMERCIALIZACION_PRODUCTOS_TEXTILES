@@ -114,7 +114,7 @@
             .col-sm-12.col-lg-7
               p.mb-0 Permite el contacto inmediato entre vendedor y cliente. Se realiza sin intermediarios entre la empresa y el cliente, mediante atención presencial o contacto directo por otros canales.
 
-        .py-3.py-md-4(titulo="Venta con consulta")
+        .py-3.py-md-4(titulo="Venta consultiva")
           .row.justify-content-center.mb-0
             .col-sm-12.col-lg-5.d-none.d-lg-block
               img(src='@/assets/curso/temas/t3/12.png')

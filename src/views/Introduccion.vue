@@ -19,7 +19,7 @@
           p.mb-3 Este componente formativo aborda la comercialización textil como un proceso planificado, en el que la oferta no se limita a mostrar productos, sino que exige organizar portafolios, definir atributos de marca, reconocer la competencia y utilizar herramientas digitales para fortalecer la presencia comercial. De esta manera, el aprendiz podrá comprender cómo se estructura una propuesta de valor acorde con las condiciones del mercado y las expectativas del cliente.
           p.mb-0 Asimismo, se estudia la venta de productos textiles como una interacción que integra información técnica, comunicación clara y orientación al comprador. Para ello, se consideran los métodos de venta, las políticas comerciales, los objetivos de ventas, la presentación del producto, el uso de muestras, la argumentación comercial y la atención a diferentes tipos de clientes.
 
-    .row.justify-content-center.mb-0.align-items-center
+    .row.justify-content-center.mb-5.align-items-center
       .col-sm-12.col-lg-1.d-none.d-lg-block
         img(src='@/assets/curso/temas/intro/3.svg')
       .col-sm-12.col-lg-11
