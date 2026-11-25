@@ -104,7 +104,7 @@
               img(src='@/assets/curso/temas/t1/17.svg')
           .bg-color-acento-botones.mb-4.py-1
             h4.mb-0.text-center.fw-bold Tipo de producto
-          p.mb-0.text-center Permite definir si la oferta corresponde a telas, hilos, insumos, prendas, muestras o servicios.
+          p.mb-0 Permite definir si la oferta corresponde a telas, hilos, insumos, prendas, muestras o servicios.
 
         .tarjeta.bg-color-2.p-4.hcard-1
           .row.justify-content-center.mb-4
@@ -112,7 +112,7 @@
               img(src='@/assets/curso/temas/t1/18.svg')
           .bg-color-acento-botones.mb-4.py-1
             h4.mb-0.text-center.fw-bold Uso final
-          p.mb-0.text-center Permite recomendar materiales según confección, dotación, moda, hogar o decoración.
+          p.mb-0 Permite recomendar materiales según confección, dotación, moda, hogar o decoración.
 
         .tarjeta.bg-color-2.p-4.hcard-1
           .row.justify-content-center.mb-4
@@ -120,7 +120,7 @@
               img(src='@/assets/curso/temas/t1/19.svg')
           .bg-color-acento-botones.mb-4.py-1
             h4.mb-0.text-center.fw-bold Perfil del cliente
-          p.mb-0.text-center Ajusta el lenguaje comercial, el volumen, el precio y la presentación de beneficios.
+          p.mb-0 Ajusta el lenguaje comercial, el volumen, el precio y la presentación de beneficios.
 
         .tarjeta.bg-color-2.p-4.hcard-1
           .row.justify-content-center.mb-4
@@ -128,7 +128,7 @@
               img(src='@/assets/curso/temas/t1/20.svg')
           .bg-color-acento-botones.mb-4.py-1
             h4.mb-0.text-center.fw-bold Canal comercial
-          p.mb-0.text-center Determina si la atención será presencial, digital, institucional, mayorista o minorista.
+          p.mb-0 Determina si la atención será presencial, digital, institucional, mayorista o minorista.
 
         .tarjeta.bg-color-2.p-4.hcard-1
           .row.justify-content-center.mb-4
@@ -136,7 +136,7 @@
               img(src='@/assets/curso/temas/t1/21.svg')
           .bg-color-acento-botones.mb-4.py-1
             h4.mb-0.text-center.fw-bold Información técnica
-          p.mb-0.text-center Sustenta composición, calidad, cuidados, acabados, rendimiento y desempeño.
+          p.mb-0 Sustenta composición, calidad, cuidados, acabados, rendimiento y desempeño.
 
         .tarjeta.bg-color-2.p-4.hcard-1
           .row.justify-content-center.mb-4
@@ -144,7 +144,7 @@
               img(src='@/assets/curso/temas/t1/22.svg')
           .bg-color-acento-botones.mb-4.py-1
             h4.mb-0.text-center.fw-bold Servicio asociado
-          p.mb-0.text-center Incluye asesoría, muestras, tiempos de entrega, fichas técnicas y seguimiento.
+          p.mb-0 Incluye asesoría, muestras, tiempos de entrega, fichas técnicas y seguimiento.
 
 
       p.mb-0(data-aos='fade-right') La comercialización de productos textiles adquiere mayor solidez cuando combina conocimiento del material con lectura del mercado. Esta relación permite presentar los productos con argumentos técnicos, organizar la oferta según el tipo de cliente y fortalecer la toma de decisiones comerciales.
@@ -293,7 +293,7 @@
                       img(src='@/assets/curso/temas/t1/37.svg')
                   .bg-color-acento-botones.mb-4.py-1
                     h4.mb-0.text-center.fw-bold Tipo de producto
-                  p.mb-0.text-center Agrupa la oferta según la naturaleza del bien o servicio, como telas, hilos, insumos, prendas, muestras, catálogos o asesorías.
+                  p.mb-0 Agrupa la oferta según la naturaleza del bien o servicio, como telas, hilos, insumos, prendas, muestras, catálogos o asesorías.
 
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-4
@@ -301,7 +301,7 @@
                       img(src='@/assets/curso/temas/t1/38.svg')
                   .bg-color-acento-botones.mb-4.py-1
                     h4.mb-0.text-center.fw-bold Uso final
-                  p.mb-0.text-center Clasifica los productos según la aplicación prevista, como moda, dotación, hogar, decoración, deporte o uso institucional.
+                  p.mb-0 Clasifica los productos según la aplicación prevista, como moda, dotación, hogar, decoración, deporte o uso institucional.
 
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-4
@@ -309,7 +309,7 @@
                       img(src='@/assets/curso/temas/t1/39.svg')
                   .bg-color-acento-botones.mb-4.py-1
                     h4.mb-0.text-center.fw-bold Composición
-                  p.mb-0.text-center Ordena los materiales según fibras o mezclas, como algodón, poliéster, viscosa, elastano, mezclas sintéticas o fibras naturales.
+                  p.mb-0 Ordena los materiales según fibras o mezclas, como algodón, poliéster, viscosa, elastano, mezclas sintéticas o fibras naturales.
 
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-4
@@ -317,7 +317,7 @@
                       img(src='@/assets/curso/temas/t1/40.svg')
                   .bg-color-acento-botones.mb-4.py-1
                     h4.mb-0.text-center.fw-bold Acabado
-                  p.mb-0.text-center Diferencia productos por procesos o características superficiales, como suavizado, estampado, repelente al agua, antiarrugas o antiencogimiento.
+                  p.mb-0 Diferencia productos por procesos o características superficiales, como suavizado, estampado, repelente al agua, antiarrugas o antiencogimiento.
 
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-4
@@ -325,7 +325,7 @@
                       img(src='@/assets/curso/temas/t1/41.svg')
                   .bg-color-acento-botones.mb-4.py-1
                     h4.mb-0.text-center.fw-bold Segmento de cliente
-                  p.mb-0.text-center Relaciona productos con grupos comerciales específicos, como talleres de confección, marcas de moda, empresas de dotación, distribuidores o compradores finales.
+                  p.mb-0 Relaciona productos con grupos comerciales específicos, como talleres de confección, marcas de moda, empresas de dotación, distribuidores o compradores finales.
 
                 .tarjeta.bg-color-4.p-4.hcard-1
                   .row.justify-content-center.mb-4
@@ -333,7 +333,7 @@
                       img(src='@/assets/curso/temas/t1/42.svg')
                   .bg-color-acento-botones.mb-4.py-1
                     h4.mb-0.text-center.fw-bold Nivel comercial
-                  p.mb-0.text-center Ubica la oferta según precio, calidad, disponibilidad o valor percibido, como línea básica, línea especializada, productos de alta rotación o referencias diferenciadas.
+                  p.mb-0 Ubica la oferta según precio, calidad, disponibilidad o valor percibido, como línea básica, línea especializada, productos de alta rotación o referencias diferenciadas.
 
       .cajon.color-primario.p-4.mb-5(data-aos='fade-right')
         h4 Nota técnica
@@ -355,7 +355,7 @@
               .h2 A
             p.text-center
               b Nombre o referencia del producto
-            p.text-center Permite identificar cada tela, insumo, prenda o servicio.
+            p.mb-0 Permite identificar cada tela, insumo, prenda o servicio.
 
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-secundario.p-5.hcus-1
@@ -363,7 +363,7 @@
               .h2 B
             p.text-center
               b Descripción técnica
-            p.text-center Presenta composición, estructura, gramaje, ancho, acabado o características principales.
+            p.mb-0 Presenta composición, estructura, gramaje, ancho, acabado o características principales.
 
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-contenido.p-5.hcus-1
@@ -371,7 +371,7 @@
               .h2 C
             p.text-center
               b Uso recomendado
-            p.text-center Relaciona el producto con aplicaciones posibles en moda, dotación, hogar, decoración o confección.
+            p.mb-0 Relaciona el producto con aplicaciones posibles en moda, dotación, hogar, decoración o confección.
 
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-botones.p-5.hcus-1
@@ -379,7 +379,7 @@
               .h2 D
             p.text-center
               b Muestra física o apoyo gráfico
-            p.text-center Facilita reconocer textura, color, caída, brillo, apariencia o acabado.
+            p.mb-0 Facilita reconocer textura, color, caída, brillo, apariencia o acabado.
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-primario.p-5.hcus-1
@@ -387,7 +387,7 @@
               .h2 E
             p.text-center
               b Precio o rango comercial
-            p.text-center Orienta la decisión de compra según presupuesto, volumen y nivel de calidad.
+            p.mb-0 Orienta la decisión de compra según presupuesto, volumen y nivel de calidad.
 
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-secundario.p-5.hcus-1
@@ -395,7 +395,7 @@
               .h2 F
             p.text-center
               b Condiciones de disponibilidad
-            p.text-center Informa colores, cantidades, tiempos de entrega o referencias activas.
+            p.mb-0 Informa colores, cantidades, tiempos de entrega o referencias activas.
 
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-contenido.p-5.hcus-1
@@ -403,7 +403,7 @@
               .h2 G
             p.text-center
               b Beneficios principales
-            p.text-center Resume el valor agregado del producto frente a la necesidad del cliente.
+            p.mb-0 Resume el valor agregado del producto frente a la necesidad del cliente.
 
         .col-md-6.col-xl.mb-4.mb-xl-0
           .tarjeta-numerada.color-acento-botones.p-5.hcus-1
@@ -411,7 +411,7 @@
               .h2 H
             p.text-center
               b Servicio complementario
-            p.text-center Incluye asesoría, entrega, fichas técnicas, atención posventa o soporte comercial.
+            p.mb-0 Incluye asesoría, entrega, fichas técnicas, atención posventa o soporte comercial.
 
       p.mb-5(data-aos='fade-right') La presentación del portafolio aporta orden y confianza al proceso de comercialización. Cuando la información se encuentra clara, completa y actualizada, el cliente puede valorar mejor la oferta y tomar decisiones con mayor seguridad.
 

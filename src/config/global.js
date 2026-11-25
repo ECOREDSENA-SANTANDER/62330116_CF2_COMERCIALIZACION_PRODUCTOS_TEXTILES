@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Comercialización y ventas de productos textiles',
     Description:
-      'El componente formativo “Comercialización y ventas de productos textiles” aborda fundamentos de mercadeo, <i>marketing</i>, comercialización y ventas aplicados al sector textil, mediante conceptos de mercado, cliente, producto, portafolio, marca, posicionamiento, competencia, herramientas digitales, métodos de venta, comunicación y servicio al cliente.',
+      'Este componente formativo aborda fundamentos de mercadeo, <i>marketing</i>, comercialización y ventas aplicados al sector textil, mediante conceptos de mercado, cliente, producto, portafolio, marca, posicionamiento, competencia, herramientas digitales, métodos de venta, comunicación y servicio al cliente.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
